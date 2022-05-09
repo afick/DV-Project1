@@ -9,7 +9,6 @@
 
 library(tidyverse)
 library(ggthemes)
-library(patchwork)
 
 fig_h <- 8
 fig_w <- 11
